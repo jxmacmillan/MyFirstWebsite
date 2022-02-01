@@ -1,0 +1,18 @@
+* {
+    color : olive;
+}
+h1 {
+    color : black;
+}
+.Major-Heading {
+    color : hotpink;
+}
+.Death {
+    color : crimson;
+    font : bold;
+    font-family: cursive;
+}
+
+:hover {
+    background-image: url(adamw.jpg);
+}
